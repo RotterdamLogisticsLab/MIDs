@@ -1,0 +1,9 @@
+{
+  "name": "mids",
+  "version": "1.0.0",
+  "description": "Introduction ================= This project is intended to help map Maritime Identification Digits (MID) to ISO 3166 Country Codes.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RotterdamLogisticsLab/MIDs.git"
+  }
+}
